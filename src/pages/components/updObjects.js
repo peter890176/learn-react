@@ -15,8 +15,6 @@ export default function Form() {
     const nextPerson = { ...person, artwork: nextArtwork };
     setPerson(nextPerson);
   }
-
-
   return (
     <>
       <img src={person.artwork.image}/>

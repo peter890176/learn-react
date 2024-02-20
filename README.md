@@ -1,6 +1,6 @@
 ## Personal Information:
 
-Full Name: Enter Your Full Name
+Full Name: Yue Wen Peter Li
 
 ## Getting Started
 First, fork this repository and clone it to your local machine.
